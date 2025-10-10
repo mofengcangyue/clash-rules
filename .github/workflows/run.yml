@@ -60,7 +60,8 @@ jobs:
           echo "  - '+.cn.bing.com'" >> microsoft.txt
           echo "  - '+.r.bing.com'" >> microsoft.txt
           echo "  - '+.th.bing.com'" >> microsoft.txt
-          echo "  - '+.www.bing.com'" >> microsoft.txt
+          echo "  - '+.bing.com'" >> microsoft.txt
+          echo "  - '+.live.com'" >> microsoft.txt
           echo "  - 'bg.v4.a.dl.ws.microsoft.com'" >> microsoft.txt
           echo "  - 'bg4.v4.a.dl.ws.microsoft.com'" >> microsoft.txt
           echo "  - 'build.microsoft.com'" >> microsoft.txt
